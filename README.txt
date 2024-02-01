@@ -1,4 +1,4 @@
-# Status de RPG Evolutivo
+Status de RPG Evolutivo
 
 Descrição: trabalho da disciplina Algoritmos Evolutivos do curso de Bacharelado em Ciências da Computação (ICMC-USP).
 
